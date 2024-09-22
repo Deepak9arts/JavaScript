@@ -8,5 +8,7 @@ accountCity="Bangalore"
 
 let accountState 
 
+//do not use var
 
+console.log(accountID);
 console.table([accountID,emai,accountPasword,accountCity,accountState]);
